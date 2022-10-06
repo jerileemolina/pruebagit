@@ -1,2 +1,3 @@
 prueba git
 añado otra linea nueva para probar commit
+ahora he creado la rama de Rama1
